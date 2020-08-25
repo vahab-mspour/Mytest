@@ -1,0 +1,11 @@
+this is a git setup on Linux ubuntu
+
+Creating a local repository:
+	1. git init Mytest
+	2. cd Mytest
+	
+	3. gedit README
+	
+This is a git repo
+
+git add README
